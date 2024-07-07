@@ -34,7 +34,7 @@ OpenGL and GLUT libraries installed on your system
 **Installation and Setup**
 Clone the Repository:
 
-> git clone https://github.com/yourusername/LRU-Page-Replacement-OpenGL.git > <br />
+> git clone https://github.com/chethann07/lru-page-replacement-algorithm.git > <br />
 
 Open the Project in Code::Blocks:
 Launch Code::Blocks.
